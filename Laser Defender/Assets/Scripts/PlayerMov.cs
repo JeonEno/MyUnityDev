@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class PlayerMov : MonoBehaviour
 {
-    vector2 rawInput;
-    
     void Start()
     {
         
